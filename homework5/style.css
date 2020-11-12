@@ -49,9 +49,8 @@ color: #ffffff;
     max-width: 1175px;
     max-height: 420px;
     margin: 0 auto;
-}
-.box{
     text-align: center;
+    vertical-align: middle;
 }
 .first{
     margin-top: 120px;
