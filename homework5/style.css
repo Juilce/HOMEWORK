@@ -1,0 +1,78 @@
+body{
+    background-color: #1d1c1c;
+}
+@font-face{
+    font-family: 'Raleway', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+}
+body{
+    background-color: #1d1c1c;
+}
+.wrapper{
+    max-width: 1140px;
+    max-height: 415px;
+    display: flex;
+    margin: 0 auto;
+}
+.boxes{
+    flex: 1;
+    text-align: center;
+    margin: 110px 15px 110px 15px;
+}
+.icon{
+    width: 82px;
+    height: 82px;
+}
+.title{
+    color: #ffffff;
+    font-size: 24px ;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+.description{
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.white{
+width: 1500px;
+color: #ffffff;
+}
+
+@font-face{
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+}
+.package{
+    max-width: 1175px;
+    max-height: 420px;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+}
+.first{
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.line{
+    margin-top: -25px;
+    margin-bottom: -15px;
+}
+.words{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+#early{
+    font-size: 20px;
+}
+#last{
+    font-weight: 600;
+    margin-top: 90px;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+.colorwords{
+    color: #2185a5;
+}
